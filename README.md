@@ -1,9 +1,9 @@
 # Minecraft Talking Blocks Mod
 
 ## Description
-The Minecraft Talking Blocks Mod is a showcase of our mere attempt into making functional text to speech (TTS) a reality in Minecraft with a rather simple yet pretty old and somewhat arcane Java TTS library. Although very combersome at first and probably by far something that no other Minecraft modder has even dared in trying to do, we might as well be the first in doing so anyways! Sometimes those lines of text going by in your chats with a command block, chat box or whatever other chat things you might as well use just get a little too boring for most of your needs amiright!?
+The Minecraft Talking Blocks Mod is a showcase of our mere attempt into making functional text to speech (TTS) a reality in Minecraft with a rather simple, old and somewhat arcane Java TTS library that no other Minecraft modder has even dared in trying to do- until now that is!
 
-As a start, This mod is based loosley on CSM, and that it will run perfectly on Minecraft 1.12.2 and possibly later versions after that for a cross version mod built entireley from scratch in Minecraft Forge. It brings a number of blocks and items to help make things talk, from NOAA weather radios to the Dectalk, Gravis Ultrasound, Disney Sound Source and many more! If it talks, it will FOR SURE be in this mod!
+This mod is written from the ground up for Forge 1.12 (more versions coming later), using best practices for Forge mod development. It brings a number of blocks and items to help make things talk, from NOAA weather radios to the Dectalk, Gravis Ultrasound, Disney Sound Source and many more!
 
 ## Information and Documentation
 Coming soon! For now, just imagine how cool this mod will really be!
@@ -32,7 +32,7 @@ Contributions and modifications are not limited to the development team, as you 
 The preferred development environment/IDE for the Minecraft Talking Blocks Mod is [IntelliJ IDEA](https://www.jetbrains.com/idea/download). 
 After opening IntelliJ, choose the option "Get from Version Control", which allows you to download and open an IntelliJ project from a Git server.
 
-<img src="DOCS/readme/getfromvctl.png" width="200" alt="Get from Version Control Button Image"/>
+<img src="https://github.com/Mica-Technologies/minecraft-city-super-mod/raw/main/DOCS/readme/getfromvctl.png" width="200" alt="Get from Version Control Button Image"/>
 
 #### Adding a Block
 To add a block, you'll need to do the following:
