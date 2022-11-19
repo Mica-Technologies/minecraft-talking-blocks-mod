@@ -1,18 +1,18 @@
 # Minecraft Talking Blocks Mod
 
-## OwO!? What's this!? TTS in LEGIT Minecraft!? 
-Don't call us crazy! The Minecraft Talking Blocks Mod is a showcase of our mere attempt into making functional text to speech (TTS) a reality in Minecraft with a rather simple yet pretty old and somewhat arcane Java TTS library. Although very combersome at first and probably by far something that no other Minecraft modder has even dared in trying to do, we might as well be the first in doing so anyways! Sometimes those lines of text going by in your chats with a command block, chat box or whatever other chat things you might as well use just get a little too boring for most of your needs amiright!?
+## Description
+The Minecraft Talking Blocks Mod is a showcase of our mere attempt into making functional text to speech (TTS) a reality in Minecraft with a rather simple yet pretty old and somewhat arcane Java TTS library. Although very combersome at first and probably by far something that no other Minecraft modder has even dared in trying to do, we might as well be the first in doing so anyways! Sometimes those lines of text going by in your chats with a command block, chat box or whatever other chat things you might as well use just get a little too boring for most of your needs amiright!?
 
-As a start, This mod is based loosley on CSM and will run perfectly on Minecraft 1.12.2 and possibly later versions after that for a cross version mod built entireley from scratch in Minecraft Forge. It brings a number of blocks and items to help make things talk, from NOAA weather radios to the Dectalk, Gravis Ultrasound, Disney Sound Source and many more! If it talks, it will FOR SURE be in this mod!
+As a start, This mod is based loosley on CSM, and that it will run perfectly on Minecraft 1.12.2 and possibly later versions after that for a cross version mod built entireley from scratch in Minecraft Forge. It brings a number of blocks and items to help make things talk, from NOAA weather radios to the Dectalk, Gravis Ultrasound, Disney Sound Source and many more! If it talks, it will FOR SURE be in this mod!
 
 ## Information and Documentation
-Coming soon! For now just imagine how cool this will really be!
+Coming soon! For now, just imagine how cool this mod will really be!
 
 ## Issues
 Having an issue with the mod? Error in the documentation or it just isn't clear enough? Let us know by using the [GitHub issue tracker](https://github.com/Mica-Technologies/minecraft-talking-blocks-mod/issues).
 
 ## Team
-Contributions and modifications are not limited to the development team, and it you are always encouraged to file issues and create pull requests. We want to help see this project grow and for being the first Minecraft TTS mod in reality
+Contributions and modifications are not limited to the development team, as you are always encouraged to file issues and create pull requests. We want to help see this project grow and for being the first Minecraft TTS mod in reality for everyone to enjoy since this is no easy task getting this to work correctly as intended most of the time as help is always welcome. We genuinely appreciate your time and intrest.
 
 <img src="https://minotar.net/armor/bust/HawkA97/100.png" width="50"/>
 
@@ -66,6 +66,6 @@ To learn more about using Git integration with the IntelliJ IDEA IDE, please see
 To learn more about the version control system Git, please see [https://git-scm.com/doc](https://git-scm.com/doc).
 
 ## Credits
-This mod is entireley buitl from scratch by Mica technologies using the JetBrains IntelliJ IDEA IDE and LOTS of love... and yes random TTS crackups from time to time!
+This mod is entireley built from scratch by Mica technologies using the JetBrains IntelliJ IDEA IDE, and LOTS of love... and yes random TTS crackups from time to time!
 
 
