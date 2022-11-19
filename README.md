@@ -12,7 +12,7 @@ Coming soon! For now, just imagine how cool this mod will really be!
 Having an issue with the mod? Error in the documentation or it just isn't clear enough? Let us know by using the [GitHub issue tracker](https://github.com/Mica-Technologies/minecraft-talking-blocks-mod/issues).
 
 ## Team
-Contributions and modifications are not limited to the development team, as you are always encouraged to file issues and create pull requests. We want to help see this project grow and for being the first Minecraft TTS mod in reality for everyone to enjoy since this is no easy task getting this to work correctly as intended most of the time as help is always welcome. We genuinely appreciate your time and intrest.
+Contributions and modifications are not limited to the development team, as you are always encouraged to file issues and create pull requests. We want to help see this project grow for being the first Minecraft TTS mod in reality as a side gig to something big and practical for everyone to enjoy. Since this is no easy task getting this to work correctly as intended most of the time, help is always welcome and is genuinely appreciated.
 
 <img src="https://minotar.net/armor/bust/HawkA97/100.png" width="50"/>
 
